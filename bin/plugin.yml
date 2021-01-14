@@ -1,0 +1,5 @@
+name: DiscordBotEvents
+version: 1.0
+description: Send discord messages on events
+author: Matheustt098
+main: com.matheustt098.discordbot.Main
